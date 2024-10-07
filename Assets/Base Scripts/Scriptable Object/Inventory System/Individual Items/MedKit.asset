@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b186d6c6239a2441867b838466fb134, type: 3}
+  m_Name: MedKit
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 6736854360621476587, guid: 7c3a9cfe7136ba844b9e8d93b60f2d52,
+    type: 3}
+  iType: 2
+  itemSprite: {fileID: 3613635533347271568, guid: b03968b597c0368498deae6b93673a89,
+    type: 3}
+  itemDescrip: 'Restores 20 health!. Huzzah, you''re feeling 20% better! '
+  healthRestored: 20

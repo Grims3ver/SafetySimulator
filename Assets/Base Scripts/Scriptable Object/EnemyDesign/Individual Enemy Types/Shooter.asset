@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf51721b8e8f834383f85578a3c295d, type: 3}
+  m_Name: Shooter
+  m_EditorClassIdentifier: 
+  health: 20
+  speed: 4
+  enemyType: 0
+  enemyPrefab: {fileID: 5585066603573838589, guid: 02f9ae4d3e6c6774abd981386d0ef472,
+    type: 3}
